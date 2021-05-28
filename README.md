@@ -1,13 +1,13 @@
-# React Portfolio
+# Be Shoppin
   ![Github License](https://img.shields.io/badge/license-MIT-green)
   
   ## Description
   
-  Shopping app built in a bootcamp module and restructured state usig Redux.
+  Shopping app built in a Vanderbilt coding bootcamp module and restructured with Redux.
 
-  Deployed App: [React Portfolio](https://joelecox1.github.io/joel-cox-react-portfolio/)
+  Deployed App: [Be Shoppin](https://be-shoppin.herokuapp.com/)
 
-  ![Screenshot of final product](./src/assets/react-portfolio.png)
+  ![Screenshot of final product](./client/src/assets/be-shoppin.png)
 
   ## Contributors
 
